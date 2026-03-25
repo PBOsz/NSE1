@@ -1,4 +1,4 @@
-<H1> ###FORTINET TRAINING </H1>
+<H1> <b>FORTINET TRAINING</b> </H1>
 
 <p>
  Este repositorio é criado para o treinamento para a badge NSE1, onde teremos os seguintes tópicos:<br>
