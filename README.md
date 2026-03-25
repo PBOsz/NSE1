@@ -18,5 +18,7 @@
 <a href="">Segurança na Nuvem<br>
 <a href="https://training.fortinet.com/mod/linkedcourse/view.php?id=809505">SASE</a><br>
 
-
+O material aqui descrito não faz com que exclua o treinamento oficial no site da própria FORTINET.<br>
+Link para cadastro:<br>
+[https://training.fortinet.com/](https://training.fortinet.com/local/staticpage/view.php?page=library_getting-started-in-cybersecurity)
 </p>
