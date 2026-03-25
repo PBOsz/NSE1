@@ -7,4 +7,5 @@
   Listar os mecanismos que ajudam a identificar remetentes legítimos e reduzir a falsificação.
   Definir termonos relacionados a um secure e-mail gateway, como spam e phishing.
 </b>
+Iniciamos com seguinte caso 
 </p>
