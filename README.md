@@ -1,7 +1,7 @@
 <H1> ###FORTINET TRAINING </H1>
 
 <p>
- Este repositorio é criado para o treinamento para a badge NSE1, onde teremos os seguintes tópicos:
+ Este repositorio é criado para o treinamento para a badge NSE1, onde teremos os seguintes tópicos:<br>
 <a href="">Firewalls</a><br>
 <a href="">Controle de Acesso à Rede</a><br>
 <a href="">SandBox</a><br>
