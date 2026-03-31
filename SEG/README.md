@@ -14,12 +14,26 @@ a privacidade nas comunicações por e-mail, serve como uma barreira entre a inf
 
 <b>- Os recursos de um secure e-mail gateway </b><br>
 Vamos apresentar alguns recursos a seguir.<br>
-<b>Filtro de conteúdo</b><br>
+<b> Filtro de conteúdo </b><br>
   Controla e gerencia o que pode ser acessado ou compartilhado em uma rede, são frequentemente usados em filtragem da web, filtragem de e-mail e prevenção contra perdas de dados.<br>
 
-  <b> Prevenção contra perda de dados  (DLP - Data Loss Prevention) </b><br>
-  Evita o vazamento não  autorizado ou acidental de informações sensíveis e confidenciais de uma organização.
+<b> Prevenção contra perda de dados  (DLP - Data Loss Prevention) </b><br>
+  Evita o vazamento não autorizado ou acidental de informações sensíveis e confidenciais de uma organização.
 
   Mas o que a filtragem de conteúdo incluí?<br>
-  -
+  °Correspondência de palavra-chave.<br>
+  °Expressões regulares.<br>
+  °Inspeções profundas de pacotes.<br>
+  °Análise baseada no contexto.<br>
+
+<b> Filtro de Spam </b> <br>
+ Gerencia e-mails e elimina conteúdo prejudicial, reduzindo a quantidade de spam que entra nas caixas de entrada.
+Se concentra em detecção de e-mails que são caracteristicos de spam, algumas delas são:<br>
+ °Endereços e remetentes suspeitos.<br>
+ °Uso excessivo de palavra-chave.<br>
+ °Padrões de spam conhecidos.<br>
+ °Endereços IP com má reputação.<br>
+
+ Quando o filtro de spam detecta essas caracteristicas, em conjunto com 
+  
 </p>
