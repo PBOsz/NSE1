@@ -44,4 +44,15 @@ Quando o filtro de spam detecta essas caracteristicas, em conjunto com algoritmo
  Listas de permissões - Essas listas também podem ser chamadas de listas brancas ou white list, elas são listas ou itens, entidades ou ações cujo é explicitamente permitido ou permitido em um sistema, rede serviço ou recurso específico. As listas são usadas em vários contextos para aumentar a segurança e controlar o acesso.<br>
  
  Algoritmo de aprendizagem de máquina - É um subconjunto de inteligência artificial (IA), os algoritmos permitem que os computadores aprendam e façam previsões ou decisões com em dados, sem serem explicitamente programados. Esses algoritmos são projetados para conhecer padrões, faer inferências e melhorar seu desempenho ao longo do tempo à medida que processam mais dados.<br>
+
+<b> Autenticação e verifiação de identidade </b> <br>
+ Ofere suporte a vários metodos para autenticar entidades de remetentes e validar fontes de e-mail para bloquear falsificação e personificação de e-mail.<br>
+
+<b> Filtro de malware </b> <br>
+ A filtragem de malware é um dos recursos do SEG, fazendo a varredura do e-mail a procura de links maliciosos ou anexos que contenham malware assim fazendo o bloqueio antes de chegar na caixa de entrada do usuário.
+ O processo para essa segurança é pegando o texto puro e fazendo a conversão para um texto cifrado, protegendo o conteúdo original, garantindo a privacidade e integridade dos dados enviados.<br>
+
+<b> Criptografia </b> <br>
+ Faz a proteção do conteúdo contra acesso não autorizado durante a transmissão. Alguns sistemas assinam o e-mail digitalmente e com isso auxilia com a identificação do remetente e na verificação da integridade do conteúdo.<br>
+ 
 </p>
