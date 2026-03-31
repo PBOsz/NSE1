@@ -36,5 +36,5 @@ Se concentra em detecção de e-mails que são caracteristicos de spam, algumas 
 
  Quando o filtro de spam detecta essas caracteristicas, em conjunto com algoritmos e Heurística com banco de dados de spammer para aumentar a precisão de bloqueios.<br>
  Algumas técnologias comuns utilizadas no filtro de spam são:<br>
- Filtros bayesianos - Que são baseados nos principios da teoria de bayesiana das probabilidades, que é um ramo da estatística que trata de probabilidades e incertezas, ele classifica o e-mail e testo para determinar a probabilidade de uma mensagem ser recebida ser spam ou não spam (ham).<br>
+ <b> Filtros bayesianos</b> - Que são baseados nos principios da teoria de bayesiana das probabilidades, que é um ramo da estatística que trata de probabilidades e incertezas, ele classifica o e-mail e testo para determinar a probabilidade de uma mensagem ser recebida ser spam ou não spam (ham).<br>
 </p>
