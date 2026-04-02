@@ -11,6 +11,8 @@
 <b>- Definindo um secure e-mail gateway </b><br>
 O SEG surgiu em respostas a emergente ameaça de phishing e a segurança de e-mail em geral, garantindo
 a privacidade nas comunicações por e-mail, serve como uma barreira entre a infraestrutura de de e-mail de uma organização e a internet.<br>
+O nome da solução da Fortinet é chamado de Forti mail.<br>
+Alguns dos suportes dessa solução para mail são: SPF, DKIM e DMARC, integração com firewall e soluções de SandBox.<br>
 
 <b>- Os recursos de um secure e-mail gateway </b><br>
 Vamos apresentar alguns recursos a seguir.<br>
